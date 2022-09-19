@@ -1,0 +1,501 @@
+﻿Institution,Alumni,Award,HiCi,N&S,PUB,PCP
+Harvard University,100,100,100,100,100,75.3
+Stanford University,41.8,82.8,79.8,71.1,70.9,51.9
+University of California-Berkeley,66.8,79.4,65.3,67.5,68.1,55.9
+Massachusetts Institute of Technology (MIT),68.4,80.7,60.6,73.6,61.5,67.1
+California Institute of Technology,48.5,66.7,49.3,60,44.9,100
+University of Oxford,51,54.9,52.8,52.7,72.7,43
+"University of California, San Diego",19.7,35.5,56.1,55.7,65,36.5
+University of Cambridge,79.1,96.6,50.8,56.2,66.5,55.2
+Yale University,48.8,50.4,51,61.5,62.9,37.7
+University of Washington,21.7,31.6,53,53.1,71.6,29
+"University of California, Los Angeles",30.2,47.1,52.8,50.9,71.3,31.7
+Columbia University,65.1,65.9,51.6,55,69.1,33.1
+University of Michigan-Ann Arbor,35.3,0,56.2,42.4,77.3,25.6
+The University of Tokyo,31.6,14.1,40.6,52.6,73,29.2
+"University of California, San Francisco",0,39.9,46.8,56.5,59.9,34.9
+University of Pennsylvania,32.4,33.8,49.6,44.6,66.9,37.3
+University of Toronto,20.4,17.2,38.8,42.2,80.5,29.6
+Cornell University,37.6,49.8,50.4,46.9,61,39.7
+The Johns Hopkins University,38.7,33.6,44,47.8,70.2,28.7
+Princeton University,52.1,88.5,57.1,46.2,44.2,68.1
+University College London,28.8,29.5,39.2,40.7,71.6,31.5
+Duke University,15.8,14.9,50.2,40.6,61.9,23.7
+Swiss Federal Institute of Technology Zurich,30.2,35.5,38.4,46.7,55.6,45.8
+"The Imperial College of Science, Technology and Medicine",14.9,35.8,43.7,38,62.5,38
+Northwestern University,15.8,22.1,50.3,39.5,58.2,28.7
+"University of Minnesota, Twin Cities",30.2,16.3,47.3,34.5,65.1,26.2
+University of Chicago,61.4,86.3,48.4,43,50.7,41.5
+University of Wisconsin - Madison,31.6,34.8,40.2,37.4,63.2,24.5
+University of North Carolina at Chapel Hill,9.1,16.3,40.4,36.3,61.1,25.6
+Washington University in St. Louis,19,24.9,40.7,44.2,52.1,26.1
+"University of California, Davis",0,0,41,35.1,59.3,26.1
+New York University,28.8,31.9,36.1,42.4,56.6,23.4
+University of British Columbia,15.8,18.8,34.2,34,63.9,24.4
+The University of Texas at Austin,16.6,16.3,38.6,36.3,55.7,26
+Pennsylvania State University - University Park,10.5,0,42.3,33,54.7,22.6
+Kyoto University,30.2,37.2,34.4,35,61.2,23.8
+University of Colorado at Boulder,12.9,34.1,37.1,40.1,46.1,34.8
+University of Illinois at Urbana-Champaign,30.7,36.2,35.8,36,54.4,28.5
+The University of Melbourne,17.5,13.3,29.3,26.7,65.9,29.7
+University of Copenhagen,22.3,18.8,27.1,32,61.1,36.2
+The Ohio State University - Columbus,12.9,0,38.3,25.5,60.6,18.8
+"University of Maryland, College Park",19.7,20,31.9,32.5,52.5,26
+University of Pittsburgh-Pittsburgh Campus,19,0,39.8,19.2,61.9,18.5
+Pierre and Marie Curie University - Paris 6,34.5,27.4,25.8,30.2,60,23.8
+"Rutgers, The State University of New Jersey - New Brunswick",10.5,18.8,34.5,30.1,49.8,24.5
+Osaka University,9.1,0,30.9,29.9,54.4,22.3
+The University of Manchester,19,32.6,28,28.2,57.8,25.9
+"University of California, Irvine",0,29.3,35,31.5,46,27.8
+"University of California, Santa Barbara",14.9,35.1,38.7,28.8,38.6,36.9
+"University of California, Santa Cruz",0,0,37.9,34.3,29.4,37.3
+McGill University,31.1,0,22.8,27.1,59.4,26.2
+The University of Edinburgh,21.1,24.9,25.8,32.5,51.8,25.8
+Ghent University,5.3,13.3,26.9,19.6,57.1,33.9
+University of Bristol,7.4,16.3,25.7,34.2,46.3,29.5
+University of Florida,17.5,0,30.9,22,60.4,17.5
+Swiss Federal Institute of Technology Lausanne,0,0,26.1,29.5,43.3,38.6
+University of Zurich,5.3,24,27.1,29.3,52.1,25.1
+The University of Queensland,12.9,0,22,21.7,61.4,27.8
+KU Leuven,0,0,29.5,19.1,54.9,29.1
+VU University Amsterdam,0,0,27.8,17.5,55.3,32.6
+University of Southern California,0,31.7,34.8,22.8,52.3,19.7
+Texas A & M University,0,0,34.3,23.2,50.2,20.8
+Boston University,11.8,11.5,29.9,27,50.3,21.9
+Heidelberg University,13.9,25.3,23.7,27.5,52.2,32.2
+University of Munich,26.3,19.1,20.3,31.7,51.3,32.1
+Karolinska Institute,22.9,26.6,24.8,22.4,51.8,37
+University of Arizona,14.9,0,27.2,30.7,48.4,20.5
+Leiden University,18.2,9.4,25.7,23.7,48.4,33.3
+Utrecht University,23.5,20,30,24.6,47.7,27
+National University of Singapore,0,0,18.3,20.2,60.2,30.9
+Brown University,14.9,13.3,26.2,26.7,43.6,32.6
+Purdue University - West Lafayette,13.9,23.1,27.7,25.8,49.5,22.2
+Monash University,0,0,18.4,22.9,58.6,25.1
+The University of Texas Southwestern Medical Center at Dallas,19,34.5,30.3,37.2,35.8,22.2
+King's College London,21.7,21,27.6,19.3,53.7,24.9
+University of Groningen,0,18.8,23,19.9,52.6,32
+Georgia Institute of Technology,12.9,0,31,22.2,43.9,28
+Emory University,0,0,28.4,23.7,51.2,17.9
+Michigan State University,9.1,0,30.7,21.3,50.5,18.5
+Seoul National University,0,0,12.3,18.9,67.8,23.4
+University of Alberta,11.8,0,23.9,20.1,55.5,22.7
+Mayo Medical School,0,0,34.9,14.1,47.8,28.6
+Vanderbilt University,15.8,29,28.4,22.8,51.5,18.9
+University of Helsinki,12.9,16.3,24.2,20,52.3,29.6
+University of Utah,0,11.5,26.5,27.2,47.3,18.7
+The University of Texas M. D. Anderson Cancer Center,0,0,28.9,21.2,41.6,32.2
+University of Amsterdam,5.3,0,20.8,19.5,53.7,28
+Tsinghua University,10.5,0,10,26.2,62.7,19.5
+Rockefeller University,17.5,59.8,30.3,44.2,20.8,38.9
+Technical University Munich,35.7,21.6,22.3,23.7,48.6,31.2
+University of Virginia,0,0,27,27.9,43.4,18.8
+The Australian National University,13.9,19.2,24.8,22.8,45.1,29.1
+The University of New South Wales,0,0,20.2,17.3,57.8,23.2
+Tohoku University,14.9,0,20.7,21.8,53.2,21.3
+Uppsala University,18.2,27.4,18.4,25.8,49.5,26.7
+University of Southampton,0,0,24.6,21.3,46.8,24.4
+University of Sydney,14.9,0,9.6,17.9,64.1,24.7
+Aarhus University,11.8,22.1,12.3,26.7,51.9,29.8
+Peking University,0,0,11.2,20.2,63.6,19
+University of Sao Paulo,0,0,12.2,12,72.9,15.4
+Baylor College of Medicine,0,0,23.7,29.8,40.3,19.9
+University of Wageningen,0,0,22.8,19.9,41.8,32.1
+Shanghai Jiao Tong University,0,0,12.6,11.5,65.9,21.8
+University Paris Diderot - Paris 7,11.8,9.4,14.9,32.2,44.5,19.4
+The University of Western Australia,13.9,14.1,22.9,15.3,47.9,28.4
+Arizona State University,0,20,22.2,27.3,42.5,19.1
+University of Rochester,25.2,7.7,25.2,24,40.7,21.5
+Rice University,16.6,21.7,28.1,24.6,30,34.6
+"University of California, Riverside",12.9,0,24.7,27.2,32.7,28.2
+Radboud University Nijmegen,16.6,0,12.3,18.1,51.7,32.1
+Aix Marseille University,13.9,0,16.8,19.5,50,26.5
+University of Geneva,22.3,28.2,18.9,29,37.8,28.3
+University of Massachusetts Amherst,13.9,0,32.8,17.3,36,23.2
+Lund University,21.7,0,22.5,14.7,50.4,20.9
+Icahn School of Medicine at Mount Sinai,0,0,26,25.2,35.9,20.8
+The University of Glasgow,7.4,0,24.9,18.7,42.3,22.6
+Zhejiang University,0,0,7.1,12.5,66.5,19
+University of Iowa,0,0,20.3,21.2,45.3,17.7
+McMaster University,12.9,18.8,23.2,15.5,45.7,22.6
+University of Basel,19.7,16.3,17.4,20.8,39.4,34.4
+University of Montreal,11.8,0,15.9,17.5,50.9,21.4
+National Taiwan University,11.8,0,13.9,13.1,57.9,19.9
+Tel Aviv University,0,0,20.7,14.4,47.4,24.9
+Fudan University,0,0,12.2,15,56.3,21.3
+University of Oslo,18.2,32.6,15.9,16.5,50,25.9
+Carnegie Mellon University,32.4,31.6,28.6,15.6,34.4,34
+University of Paris Sud (Paris 11),31.1,54.3,16.8,18.5,48.4,26.5
+University of Bern,12.9,0,16.3,21.7,40.3,26.5
+The University of Georgia,0,0,20.6,20.6,42.1,18.3
+University of Leeds,17.5,0,18.4,20.5,43.3,20.1
+University of Science and Technology of China,0,0,15.9,15.2,47.5,23.9
+University of Birmingham,19,9.4,20.8,14.5,45.7,20.7
+Oregon State University,10.5,0,23,20.8,35.3,22.4
+University of Bonn,15.8,19.8,17.4,21.9,40.5,25.2
+University of Frankfurt,31.1,0,19.6,21.8,38.6,24.7
+University of Nottingham,11.8,20,17,17.3,46.5,19.9
+The University of Sheffield,18.2,13.3,18.4,17.4,43.7,21.6
+Nagoya University,22.3,14.1,16.8,18,45.2,21.1
+North Carolina State University - Raleigh,0,0,24,14.6,41.5,18.9
+University of Hawaii at Manoa,0,0,20.1,23.8,36.3,18.7
+Case Western Reserve University,31.1,10.9,17.9,22,39,23
+University of Padua,0,0,11.3,17.7,48.7,22
+Stockholm University,24.7,27.4,18.1,20.3,39.9,25.3
+Joseph Fourier University (Grenoble 1),0,14.9,17.4,22.4,39.6,20.2
+Oregon Health and Science University,0,0,20.8,22.3,34.5,22
+University of Miami,0,0,22,18.9,41,15.3
+Weizmann Institute of Science,18.2,16.3,17,34.4,27.3,24.1
+University of Liverpool,17.5,13.3,16.3,19.4,42,22.7
+The University of Hong Kong,0,0,17.5,15.5,44,22.4
+University of Vienna,13.9,0,17.2,21.9,37,24.2
+The Hebrew University of Jerusalem,32.9,28.2,19.6,21.3,37.2,27.8
+University of Barcelona,0,0,15.1,11.5,51.8,18.4
+Iowa State University,0,0,18.5,20,38.9,19.6
+King Saud University,0,0,34.5,6,40.5,13.8
+Indiana University Bloomington,10.5,21.6,18.5,21.4,38.2,19.4
+University of Freiburg,19,18.8,13,25,37.8,24.4
+University of Warwick,0,0,22.5,13.1,38.9,21.9
+Technical University of Denmark,5.3,11.5,21.1,15.5,39,22.6
+University of Illinois at Chicago,0,0,18.9,14.4,43.9,17.4
+Cardiff University,0,16.3,13.6,18.8,42.4,21.2
+Tokyo Institute of Technology,12.9,0,15.9,17.6,38.4,24.4
+Nanyang Technological University,0,0,11.2,10.6,50.4,25
+University of Tuebingen,22.9,0,12.2,18.7,42.5,23.5
+Tufts University,19,16.3,20.1,16.4,35.1,25.6
+University of Lausanne,0,0,14.9,23.3,33.9,21.5
+The University of Calgary,0,0,13.8,15.3,45,18
+Catholic University of Louvain,10.5,13.3,15.9,9.4,42.4,29.1
+Kyushu University,0,0,13.1,14.8,45.8,18
+King Abdulaziz University,0,0,33.1,5.1,39,12.2
+University of Bologna,0,0,13.8,11.2,48.1,18.4
+University of Exeter,0,0,17.8,18.8,33.6,22.7
+University of Massachusetts Medical School - Worcester,0,20,14.3,28.4,27.7,24.4
+"University of Maryland, Baltimore",0,0,19.1,15.6,38.3,16.8
+University of Goettingen,31.6,14.9,13.1,17.9,40.2,24.7
+University of Milan,17.5,0,14.2,10.5,46,20.8
+The University of Alabama at Birmingham,0,0,18.1,13.6,41.3,15.5
+The University of Adelaide,14.9,0,15.1,10.9,41.4,24.5
+Durham University,0,0,19.6,15.5,34.1,21
+University of Hamburg,11.8,0,13.9,20,36.6,20.8
+University of Waterloo,0,0,14.6,12.6,41.6,21.3
+Korea Advanced Institute of Science and Technology,0,0,8.3,16.8,38.7,28.8
+University of Erlangen-Nuremberg,0,0,15.9,14.6,39.3,20.8
+Colorado State University,0,0,20.3,13.6,35.5,19.5
+Korea University,0,0,8.7,10.2,49.1,21.2
+Sun Yat-sen University,0,0,8.7,8.8,53.2,17
+University of Cincinnati,0,0,22.6,9.3,39.7,15.3
+Stony Brook University,0,0,14.8,18.9,36.9,16.8
+University of Roma - La Sapienza,11.8,13.3,5.1,11.6,53.4,17.9
+University of Gothenburg,0,15.4,12.3,13.9,42.7,19.7
+University of Bordeaux,0,0,14.3,16.6,40,15.4
+Florida State University,0,0,14.6,16,37.9,19.1
+University of Paris Descartes (Paris 5),11.8,9.4,12.2,16.2,42,16.3
+Erasmus University,0,14.9,22,7.5,34.8,26.4
+Paul Sabatier University (Toulouse 3),0,0,12.3,20.6,38.1,14.3
+University of Wuerzburg,19.7,0,18.9,15,34.4,20.7
+Yonsei University,0,0,8.6,6.6,51.1,20.8
+Macquarie University,0,0,18.1,13,32.8,24.3
+Hokkaido University,11.8,16.3,7.2,16.6,44,19.1
+University of Leicester,0,0,14.6,18.8,32.7,20.4
+University of East Anglia,13.9,0,19.2,15.4,29.9,23.5
+Delft University of Technology,11.8,0,8.6,18.3,38.6,21.3
+Technion-Israel Institute of Technology,24.1,37.6,15.2,19.1,33.3,27.1
+TU Dresden,0,0,10.7,16,39.9,20.6
+Newcastle University,0,0,12.2,16,38.5,18.8
+University of Turin,15.8,0,16.2,9.5,40.3,20.1
+University of Houston,0,0,17.3,11.4,36.7,19.9
+University of Florence,0,0,16.8,10.5,38.9,18.6
+Ecole Normale Superieure - Paris,50.2,28,11.2,16.8,26.8,59.8
+University of Strasbourg,25.8,28.8,13.9,17.7,35.5,21.2
+University of South Florida,0,0,16.3,9.7,40,18.1
+University of Ottawa,0,0,8.6,13.4,43.3,18.8
+University of Tennessee - Knoxville,10.5,0,15.9,13.1,39.1,14.6
+Autonomous University of Barcelona,0,0,5,13.7,45.3,20.3
+The Chinese University of Hong Kong,0,14.1,15.1,5.1,43.3,21.7
+Karlsruhe Institute of Technology (KIT),0,0,12,15.1,38,19.8
+The University of Auckland,13.9,0,10.1,13.5,40,20.8
+RWTH Aachen University,0,0,15.1,8.1,41.1,20.8
+University of Muenster,19.7,13.3,13.2,15.2,36.5,21.3
+University of York,0,0,13.9,16.2,33,20.4
+Northeastern University,0,0,15.9,18.1,28.8,20.2
+University of Lisbon,0,8.1,5,10.8,46.8,22.8
+The University of New Mexico - Albuquerque,0,0,14.9,16.8,34.2,15.3
+University of Otago,0,0,12.2,11.3,34.6,27.2
+University of Delaware,10.5,16.3,20.1,11.7,32.2,19.4
+Yeshiva University,0,0,6.3,21.8,32.9,21.9
+University of Notre Dame,12.9,0,17.5,13,32.1,19.7
+National Autonomous University of Mexico,12.9,0,3.3,10.4,47.7,23.2
+Maastricht University,0,0,10.7,6.6,41.5,24.8
+University of Koeln,0,11.5,8.6,17.5,37.2,20.2
+University of Bergen,0,0,10.7,14.6,36.9,19.5
+University of Mainz,0,7.7,8.9,16.8,37.1,20.1
+Xian Jiao Tong University,0,0,8.7,8.1,46.4,17.4
+University of Nebraska - Lincoln,17.5,0,16.8,12.5,34.3,16.8
+Western University (The University of Western Ontario),0,0,5.1,15,41.9,18
+"Queen Mary, University of London",18.2,0,18.1,11.6,31.7,19.9
+Autonomous University of Madrid,0,0,11.3,12,39,17.1
+Free University Brussels,20.4,26.6,11.3,11.8,34.6,30.8
+University of Kansas,11.8,0,11.3,13.3,39.5,14.5
+Sungkyunkwan University,0,0,0,12.2,47.2,21.3
+Dalhousie University,0,0,12.2,15.2,34.1,17.9
+Dartmouth College,18.2,0,20.7,14.1,25.6,20.3
+Swedish University of Agricultural Sciences,0,0,13.3,13.3,30,24
+Norwegian University of Science and Technology - NTNU,13.9,0,10.1,13.4,37.3,18
+University of Innsbruck,0,9.4,14.8,17.1,24.8,24.5
+The University of Dundee,0,0,16.8,16,26.1,20.3
+University of Sussex,0,22.4,15.2,13.5,29,25.6
+Laval University,0,0,15,9.3,36.9,16
+University of Liege,7.4,0,10.1,14.6,31.5,23.9
+City University of Hong Kong,0,0,18.1,1.5,37.9,21.5
+Queen's University,0,0,13.1,11.8,33.9,19.2
+Moscow State University,42.4,33,0,9.7,47.9,30.7
+Virginia Polytechnic Institute and State University,11.8,0,11.4,8.4,40.4,16.7
+University of Bochum,0,0,13.3,9.9,36.5,18.6
+Nanjing University,0,0,0.7,6.9,51.5,17.8
+Scuola Normale Superiore - Pisa,0,0,7.2,7.1,18,58.9
+Simon Fraser University,0,0,12.2,12.9,33.3,18.8
+Virginia Commonwealth University,10.5,14.1,15.9,11.8,34,14.6
+The Hong Kong University of Science and Technology,0,0,17.4,8.1,30.1,22.8
+University of Guelph,0,0,17.5,9.7,31.1,18.7
+State University of New York at Buffalo,0,0,13.1,8.1,38.8,15.5
+Pohang University of Science and Technology,0,0,7.1,11.1,30.6,32.6
+Harbin Institute of Technology,0,0,10,2.9,47.5,14.7
+University of Aberdeen,0,13.3,12.2,12.6,31.9,21.2
+Louisiana State University - Baton Rouge,0,0,13.6,12.6,34,14.3
+University of Antwerp,0,0,5.1,11,35.8,26.5
+University of Valencia,0,0,8.6,9.4,41.8,14.4
+University of South Carolina - Columbia,0,0,16.8,6.9,35.2,15.5
+University of Pompeu Fabra,0,0,5,17.2,26.2,31.4
+University of Victoria,0,0,17.2,8.2,30.6,19.5
+University of Cape Town,19,0,12.2,10,35.6,19.1
+University College Dublin,0,0,10.7,12.3,34.8,17.9
+James Cook University,0,0,10.1,15.7,27.3,23.5
+Huazhong University of Science and Technology,0,0,0,7.7,50.4,15.7
+Umea University,0,0,12.2,11.3,33.8,16.7
+National Cheng Kung University,0,0,10.1,2.7,43.6,17.9
+Curtin University,0,0,7.1,12.1,34.8,21.4
+Claude Bernard University Lyon 1,10.5,0,0,17.4,41,14.5
+Washington State University,0,0,17.3,10,30,16.1
+University of Tasmania,0,0,10.1,15.6,27.6,22
+The University of Texas Health Science Center at San Antonio,0,0,20.1,9.5,27.7,15.6
+The Hong Kong Polytechnic University,0,0,11.3,3.8,39.8,19
+Eindhoven University of Technology,0,0,12.3,8.4,31.9,22.5
+Jilin University,0,0,0,9.9,48.9,12.8
+University of Naples Federico II,0,0,8.6,5.1,42.4,16.8
+Linkoping University,0,0,10.7,9.5,35.1,17.7
+The University of Reading,0,0,14.3,10.8,28.9,19.7
+University of Kiel,10.5,13.3,12.2,13.4,31.2,18.2
+Charles University in Prague,9.1,0,0,10.4,43.6,19.3
+University of Ulm,0,0,12.3,12.5,31.3,16.8
+Southeast University,0,0,8.7,7.5,40.2,14.9
+Indiana University-Purdue University at Indianapolis,0,0,7.1,11.9,38.2,13.6
+University of Oregon,9.1,0,10.1,17,27.1,18.5
+Trinity College Dublin,10.5,13.3,10.7,13.2,32,18.3
+Polytechnic University of Valencia,0,0,10.4,12.2,33.4,15.2
+Royal Institute of Technology,0,14.9,3.6,9.9,38,23.5
+National Chiao Tung University,0,0,8.6,9.3,34.7,20.4
+The University of Texas Health Science Center at Houston,0,15.4,13.9,9.7,32.2,16.5
+University of Wollongong,0,0,12.2,7.5,31.9,21.7
+National and Kapodistrian University of Athens,0,0,10.6,3.8,39.8,19.2
+University of the Witwatersrand,19,0,7.1,16.3,31.9,18.3
+University of Marburg,10.5,0,14.3,12.1,29.5,16.6
+University of Colorado at Denver,0,0,15.9,8.3,33.2,12.1
+University of Southern Denmark,0,0,7.2,11.7,35.5,18
+University of Granada,0,0,7.1,9.4,39.9,13.3
+University of Missouri - Columbia,9.1,0,3.6,15.2,37.2,13.5
+University of Central Florida,0,0,13.6,10.8,29.3,16.6
+University of Kentucky,10.5,0,3.6,12.5,39.7,13.5
+University of Pisa,13.9,23.1,7.2,6.7,38.1,22.2
+University of Porto,0,0,0,9.4,42.7,20.3
+UNESP,0,0,0,7.9,43.9,20.7
+Rensselaer Polytechnic Institute,12.9,0,13.9,12.2,23.1,23.8
+Central South University,0,0,7.1,1.5,45.3,15.3
+Georgetown University,0,0,11.1,9.1,31.9,17.9
+Thomas Jefferson University,0,0,8.9,8.8,27.7,27.9
+National Tsing Hua University,12.9,0,5.1,12.6,32.7,20.8
+Shandong University,0,0,0,3.6,50.6,14.3
+University of St Andrews,10.5,0,3.8,17.7,29,20.4
+University of Newcastle,0,0,11.1,7.1,31.4,21.3
+University of Montpellier 2,10.5,0,6.3,15,31.1,17.3
+Chalmers University of Technology,0,0,8.9,11.1,30.2,20
+China Agricultural University,0,0,0,13.1,39.2,16.6
+The University of Texas at Dallas,0,0,10.1,11.5,27.5,21.5
+Sichuan University,0,0,0,3.1,50.8,14.1
+University of Giessen,0,0,12.3,10.1,30.9,16.3
+Lancaster University,0,0,13.9,7.5,29.3,18.5
+University of Campinas,0,0,3.6,4.6,42.6,20
+University of Manitoba,0,0,8.1,8.8,35.4,15.9
+The George Washington University,11.8,0,6.3,11.1,34.4,17
+Dalian University of Technology,0,0,5,4.6,42.1,16.7
+Medical University of Vienna,9.1,9.4,8.6,9.7,32.9,18
+London School of Economics and Political Science,20.4,16.3,15.2,,30.5,28
+Temple University,0,0,13.3,7.1,33.4,12.2
+San Diego State University,0,0,14.3,11.5,25,16.6
+Drexel University,0,0,12.3,8.8,28.6,18.2
+University of Twente,0,0,5.1,10.4,32.5,20.8
+University of Tsukuba,0,19.6,5.8,10.9,35.7,15.6
+Hiroshima University,0,0,4.8,13.6,33.1,14.9
+Keio University,0,0,5.1,13,34,13.5
+Wayne State University,0,0,3.6,10.1,37.8,13.9
+Xiamen University,0,0,5.5,8.8,37.3,13.8
+Free University of Brussels,13.9,0,5,9.6,30,25.6
+Tongji University,0,0,0,7.9,43.2,14.4
+Swinburne University of Technology,0,0,11.3,13.1,21.4,22.4
+Kobe University,14.9,0,5.1,14.7,30.9,15.4
+University of Tehran,12.9,0,10,0,38.8,19.6
+Tokyo Medical and Dental University,0,0,8.6,11.4,24.2,24.5
+Hanyang University,0,0,0,6.7,39.8,20.8
+Federal University of Rio de Janeiro,0,0,0,8.1,40.5,19.2
+Kyung Hee University,0,0,5,3.1,40,18.1
+South China University of Technology,0,0,7.1,5.7,37.6,14.2
+Beijing Normal University,15.8,0,5,7.8,37.2,15.4
+Beihang University,0,0,8.6,4.1,37.1,15
+University of Belgrade,0,0,0,2.2,44.9,20.9
+University of Leipzig,11.8,13.3,5,9.6,34.6,18.5
+University of Connecticut,11.8,0,8,7.8,34.6,13
+Polytechnic Institute of Milan,7.4,14.9,5,8.4,33.1,20.3
+"University of Technology, Sydney",0,0,14.3,4.1,28,18.6
+University of Malaya,0,0,5,3.4,39.1,18.5
+SUNY at Albany,0,0,13.1,7.2,26.3,18.2
+University of Saskatchewan,9.1,0,7.9,7.7,32.7,15.5
+Griffith University,0,0,3.6,7.6,35.1,18.3
+London School of Hygiene & Tropical Medicine,7.4,0,7.1,5.8,31.9,20.8
+University of Duisburg-Essen,0,0,8.6,9.5,30.8,15.5
+Chiba University,0,0,8.7,10.1,29,15.7
+The University of Montana - Missoula,5.3,0,15.9,15,16,17.3
+University of Duesseldorf,11.8,0,6.1,11,31,16.3
+University of Stuttgart,19,0,10.1,11.7,27,15.7
+University of Roma - Tor Vergata,0,0,0,10.7,34.1,19.4
+Nankai University,0,0,5,6.8,36.5,13.9
+Lanzhou University,0,0,7.1,2.2,36.6,17.5
+University of Milan - Bicocca,0,0,5,6.9,31.4,21.5
+University of Turku,0,0,6.3,8.4,32.9,16.3
+Hannover Medical School,0,0,8.7,7.5,31.5,16.1
+Federal University of Minas Gerais,0,0,3.6,4.9,37.9,17.9
+Tulane University,0,0,12.2,8.4,26.6,14.9
+University of Rhode Island,0,0,15.2,9.3,21.5,16.4
+Brandeis University,19.7,0,3.6,20.3,18.4,24.6
+University of Bath,0,0,5.1,11.9,27.5,18.6
+University of Vermont,13.9,0,12.2,9,26.4,14.2
+University of Pavia,0,0,5,6.9,31.4,19.9
+Indian Institute of Science,0,0,7.2,2.9,35.7,17.3
+University of Parma,0,0,13.6,5,25.3,18.8
+Chang Gung University,0,0,3.6,3.3,35.1,21.6
+University of Ferrara,0,0,10.1,6.9,25.1,21.3
+Wake Forest University,0,0,14.9,7.5,25.8,12
+Complutense University of Madrid,19.7,0,0,5.5,42.9,12.1
+Medical University of South Carolina,0,0,7.2,6,29.8,19.7
+University of Buenos Aires,14.9,24,0,9,36.3,21.2
+University of New Hampshire - Durham,0,0,14.3,10.6,20.9,15.1
+Deakin University,0,0,0,8.4,34.1,19.9
+Kansas State University,0,0,7.1,11.2,28,13.8
+University of Konstanz,0,0,12.1,12.5,22.7,13.3
+Tianjin University,0,0,0,1.5,43.2,16.2
+National Sun Yat-Sen University,0,0,12.3,2.4,27.5,19.9
+University College Cork,0,0,13.1,7.7,26,14.1
+University of Regensburg,0,0,3.6,13.9,28.7,15
+University of Alaska - Fairbanks,0,0,12.2,11.4,20.9,16.2
+University of Trieste,0,0,5,11.5,25.4,20.1
+Ecole Polytechnique,17.5,0,5.1,9.7,27,21.3
+Catholic University of Korea,0,0,0,1.5,30.3,34.8
+Federal University of Rio Grande do Sul,0,0,0,4.7,38.9,18.2
+Queen's University Belfast,18.2,0,0,10.9,32.4,18
+Ben-Gurion University of the Negev,0,0,3.6,7.2,33.8,16.2
+University of Oulu,11.8,0,8.6,8.2,28.8,15
+University of Eastern Finland,0,0,12.3,5.3,27.9,14.6
+University of Auvergne,0,0,7.1,10.9,25.6,16.2
+University of Oklahoma - Norman,0,0,5.1,10.9,28.9,14.2
+University of Bayreuth,0,0,8.6,14.9,22.7,13.2
+King Abdullah University of Science and Technology,0,0,16.8,9.6,20,12.9
+Jagiellonian University,10.5,0,3.6,6.8,34,16.6
+University of Quebec,0,0,0,9.4,34.7,16.7
+University of Genova,0,0,7.2,3.1,32.3,17.5
+University of the Basque Country,0,0,3.6,6.9,35,12.9
+Vienna University of Technology,0,0,0,10.3,29,22.2
+Carleton University,0,0,12.2,5.3,26.2,15.4
+King Fahd University of Petroleum & Minerals,0,0,17.9,4.9,20.3,16.3
+University of Santiago Compostela,0,0,7.1,6.2,31.8,13.2
+Boston College,0,0,8.6,12.9,22.5,14.6
+University of Zaragoza,0,0,7.6,3.8,33.6,13
+Wuhan University,0,0,0,2.7,42.9,12
+East China University of Science and Technology,0,0,5,4.9,33.5,15.1
+University of Wyoming,0,0,3.6,15.5,23.4,16.5
+National Yang Ming University,0,0,0,4.2,33.3,24.1
+University of Perugia,0,0,3.6,9.2,28.6,18.1
+Soochow University,0,0,0,4.2,39.5,14.4
+Brigham Young University,9.1,0,12.2,6.7,26.2,12.5
+Peking Union Medical College,0,0,0,9.9,32.6,16.2
+Catholic University of the Sacred Heart,0,0,3.6,7.5,30.1,18
+University of Surrey,0,0,8.6,5.1,27.5,18
+University of KwaZulu-Natal,0,0,3.6,9,31,15.2
+Technical University of Berlin,16.6,0,7.8,6.6,29.4,15.9
+Rush University,0,0,10.7,6.6,24.7,16.3
+"University of Maryland, Baltimore County",0,0,17.4,7.1,17.1,16.8
+Nanjing Medical University,0,0,0,4.1,31.3,26.3
+Aalborg University,0,0,12.2,3.4,27.6,15.2
+University of Nice Sophia Antipolis,0,0,3.6,14.9,25.8,12.1
+Ewha Womans University,0,0,5,9,27.8,15.8
+Capital University of Medical Sciences,0,0,0,0,33.1,29.1
+University of Arkansas at Fayetteville,0,0,12.2,6.2,24.4,13.9
+Brunel University,0,0,12.2,3.8,25.4,16.1
+University of Jena,0,0,0,8.4,33.8,16.2
+Okayama University,0,0,3.6,10.6,29.6,12.2
+University of Coimbra,0,0,0,8.2,33.9,16.2
+University of Bremen,0,0,0,13.1,29.6,15
+University of Canterbury,0,0,3.6,9.2,25.8,19.8
+University of Hannover,0,0,8.6,10.5,24.5,13
+Auburn University,0,0,8.6,6,28.2,13.1
+Clemson University,0,0,6.3,8.7,26.8,14.5
+Bar-Ilan University,0,0,7.2,7.4,28.1,14.3
+University of Lorraine,11.8,16.3,0,7.9,33.7,18.2
+Polytechnic University of Catalonia,0,0,5,8.3,28.7,14
+Bielefeld University,0,0,11.8,7.1,24.4,13
+The University of Texas Medical Branch at Galveston,0,0,13.9,5,22.9,14.2
+University of Rostock,0,0,8.6,8,26.4,13.4
+Oklahoma State University,0,0,8.6,4.9,28.5,13.7
+Catholic University of Chile,0,0,3.6,8.6,30,14.7
+Aalto University,0,0,0,9.6,32,15.5
+Flinders University,15.8,0,5.1,4.1,28.5,21.3
+University of Palermo,0,0,6.3,6.2,28.6,14.7
+Ecole Normale Superieure - Lyon,0,20,3.6,11.7,21,28.4
+University of Ljubljana,0,0,0,5.2,36.1,14.2
+University of Arkansas at Little Rock,0,0,10.7,2.2,24.7,19.8
+Aristotle University of Thessaloniki,0,0,4.9,2.2,33.8,16
+George Mason University,0,31.9,5.1,9.3,27.9,18.1
+Kanazawa University,0,0,5.1,10.5,25.4,14.4
+University of Tennessee Health Science Center,0,0,12.3,8.4,22.1,12.6
+University of Chile,7.4,0,0,10.1,31.1,15.4
+The Open University,0,0,6.3,12.9,22.3,13.1
+Eotvos Lorand University,13.9,0,10.1,8.6,23.7,13.4
+Stellenbosch University,0,0,5,5.8,30.2,14.6
+Kent State University,0,0,5.1,13,22.4,14
+Syracuse University,0,0,8.1,8.1,24.8,13.1
+University of Cagliari,0,0,10.1,3.9,24.4,16.9
+"University of Science, Malaysia",0,0,5,3.8,31.4,15.1
+Tokyo University of Science,0,0,7.1,8.4,22.9,16.3
+York University,0,0,0,10.1,30.6,12.4
+Waseda University,0,0,6.1,7.7,28.1,10.3
+University of Halle-Wittenberg,0,6.7,3.6,11.3,25.7,13.6
+University of Rennes 1,0,0,3.6,9.2,28.2,11.1
+University of Warsaw,15.8,0,0,8.6,30.6,15.6
+Istanbul University,13.9,0,0,3.3,34.9,16.9
+Technical University Darmstadt,14.9,0,3.6,7.9,27.4,14.3
+Utah State University,13.9,0,3.6,10.5,23.8,14.7
+Medical University of Graz,0,9.4,3.6,4.4,24.8,22
+Victoria University of Wellington,11.8,0,0,8.4,25,18.4
+Tilburg University,0,0,0,,28.1,21.2
+Saint Petersburg State University,27.3,0,0,6.1,28,16
+Cairo University,19.7,0,0,3.8,29.7,15.3
+Technical University of Braunschweig,12.9,0,3.6,9.3,21.3,11.8
+University of Essex,19.7,0,8.6,1.5,20.1,19.3
+Saint Louis University,0,11.5,5.1,4.6,24.2,11.5
+City University of New York City College,29.3,0,5.1,8.4,17.9,18.4
+Osaka City University,15.8,0,3.6,6.5,21.5,13.9
+ESPCI ParisTech,7.4,18.8,0,9.5,15.5,28.9
+State University of New York Health Science Center at Brooklyn,0,15.4,5.1,7.1,16.3,17.5
+University of Szeged,0,13.3,3.6,5.7,21.6,12.3
+University of Graz,7.4,9.4,0,6.3,19.1,16.3
+University of Paris Dauphine (Paris 9),15.8,26.6,3.6,0,13.6,23.1
+Stockholm School of Economics,0,16.3,0,,9.4,37.9
+MINES ParisTech,13.9,24.9,0,3.8,8.1,13.1
